@@ -1,0 +1,96 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+header div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elwod{
+    border: 5px solid red;
+    border-radius: 50px;
+    width: 219px;
+
+
+
+}
+
+.elwod1{
+    color: #0D0C5C;
+
+}
+
+.cards{
+    display: flex;
+    justify-content: space-around;
+}
+
+.cards div{
+    display: flex;
+    align-items: center;
+}
+
+button{
+    background-color: #0D0D5B;
+    color: aliceblue;
+    width: 116px;
+    height: 63px;
+    border-radius: 20px;
+
+}
+
+input{
+    background-color: black;
+    color: aliceblue;
+    width: 386px;
+    height: 63px;
+    border-radius: 20px;
+    font-size: 24px;
+    
+}
+
+
+
+.e2{
+    width: 290px;
+    height: 290px;
+    background-color: rgb(245, 243, 240);
+    border-radius: 30px;
+    text-align: center;
+   
+
+}
+
+.coin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.e1 {
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 30px;
+   margin-top: 150px;
+}
+
+
+.a3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
